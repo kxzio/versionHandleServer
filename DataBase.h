@@ -1,3 +1,6 @@
-Admin: 753753;
-DefaultUser: arion321;
-rp32: toboline43;
+//loader database
+class users {
+
+	[(1)_:Admin] : [(1)-:753753];
+	[(2)_:User]  : [(2)-:vasilek2125];
+}
